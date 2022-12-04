@@ -55,9 +55,9 @@ Reserves = Required Reserves + Excess Reserves
 
 </details>
 
-Money multiplier = $ 1 \over R $
+Money multiplier = $1 \over R$
 
-$\Delta$ Checking account balances = $\Delta$ Excess reserves $\times$ $ 1 \over R $
+$\Delta$ Checking account balances = $\Delta$ Excess reserves $\times$ $1 \over R$
 
 ### Why is real world multiplier is much smaller than the money multiplier?
 * We assumed that banks lend out all excess reserves
