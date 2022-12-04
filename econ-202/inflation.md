@@ -37,7 +37,7 @@ $M * V = P * Y$
 <details>
 <summary>
 
-#### $\%\Delta M = \%\Delta P + \%\Delta Y$
+$\%\Delta M = \%\Delta P + \%\Delta Y$
 
 </summary>
 
