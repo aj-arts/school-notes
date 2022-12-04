@@ -37,11 +37,11 @@ $M * V = P * Y$
 <details>
 <summary>
 
-$ \%\Delta M = \%\Delta P + \%\Delta Y $
+$\% \Delta M = \% \Delta P + \% \Delta Y$
 
 </summary>
 
-* $ \%\Delta M + \%\Delta V = \%\Delta P + \%\Delta Y $
+* $\% \Delta M + \% \Delta V = \% \Delta P + \% \Delta Y$
 * assuming $V$ is constant
 * $\therefore\%\Delta V = 0$   
 * if $M > Y$ ⮕ inflation
