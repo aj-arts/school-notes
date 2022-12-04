@@ -51,7 +51,7 @@ Reserves = Required Reserves + Excess Reserves
 * Required Reserves = Fraction of deposits that banks must keep in reserve
 * Excess Reserves = Deposits - Required Reserves
 * A bank can decide to keep more money in reserve than required
-* Required reserve ratio ($R$) is the fraction of deposits that banks must keep in reserve due to law (set by the Feds)
+* Required reserve ratio $R$ is the fraction of deposits that banks must keep in reserve due to law (set by the Feds)
 
 </details>
 
