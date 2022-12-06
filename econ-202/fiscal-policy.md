@@ -3,35 +3,35 @@
 
 ### What is Fiscal Policy?
 * Changes in :
-    - Government Purchases (G)
-    - Federal Taxes
+    * Government Purchases (G)
+    * Federal Taxes
 
 * Conducted by :
-    - President
-    - Congress
+    * President
+    * Congress
 
 * Types :
     1. Exapansionary Fiscal Policy
-        - Government Spending Increase ⬆ / Taxes decreases ⬇
-        - AD increases ⬆ => GDP increases ⬆
+        * Government Spending Increase ⬆ / Taxes decreases ⬇
+        * AD increases ⬆ => GDP increases ⬆
     2. Contractionary Fiscal Policy
-        - Government Spending decreases ⬇ / Taxes increases ⬆
-        - AD decreases ⬇ => GDP decreases ⬇
+        * Government Spending decreases ⬇ / Taxes increases ⬆
+        * AD decreases ⬇ => GDP decreases ⬇
 
 
 ### Challenges in Fiscal Policy?
-- Crowding out
-    - Government expenditure (G) increases ⬆ => Private Investment decreases⬇
-    - short term => partial crowding out
-    - long term => complete crowding out
+* Crowding out
+    * Government expenditure (G) increases ⬆ => Private Investment decreases⬇
+    * short term => partial crowding out
+    * long term => complete crowding out
 
-- Multiplier Effect
-    - Change in AD > Change in G
+* Multiplier Effect
+    * Change in AD > Change in G
 
-- Uncertainity
-    - size of needed policy?
+* Uncertainity
+    * size of needed policy?
 
-- Time lags
+* Time lags
     1. Information lag
     2. Formulation lag
         - decision making process
@@ -41,8 +41,8 @@ Note : Governments have generally done a good job with fiscal policy
 
 
 ### What are automatic stabilizers?
-- automatic change G/taxes
-- types :
+* automatic change G/taxes
+* types :
     1. Taxes/Progresssive taxation
     2. Government spending/Government programs
         - Unemployment insurance
